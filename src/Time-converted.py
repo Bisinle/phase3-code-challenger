@@ -24,7 +24,7 @@ def convert_and_display():
     period = period_entry.get().lower()
 
     if hours_input == "" or minutes_input == "":
-        result = "Error !!"
+        result = "Fields cannot be Empty !!"
     else:
         hours = int(hours_input)
         minutes = int(minutes_input)
@@ -35,7 +35,7 @@ def convert_and_display():
 # Create the main window
 root = tk.Tk()
 root.title("Time Converter")
-root.geometry("200x300")
+root.geometry("300x300")
 
 # Create entry widgets for user input
 hours_label = tk.Label(root, text="Hours:")

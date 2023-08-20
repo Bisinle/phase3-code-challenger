@@ -1,6 +1,7 @@
 ## phase3-code-challenger-1
 
 ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Code 1 - Consonant Value:
@@ -9,7 +10,7 @@ This code defines a function consonant_value that takes a string and removes the
 
 ## Code 2 - Time Converter:
 
-The "Time Converter" code defines a function time_converter that takes three parameters: `hours`, `minutes`, and `period`. It checks the validity of the input values to ensure they represent a valid time. If the provided time is valid (within the range of hours, minutes, and a valid period), the function performs a conversion to a `24-hour` format.
+This code is a Python program that utilizes the `tkinter library` to create a simple graphical user interface `(GUI)` for converting time from a 12-hour format to a 24-hour format. The GUI allows users to input hours, minutes, and the period (am/pm) and then displays the converted time or an error message.
 
 ## Code 3 - Two Positive Numbers:
 
