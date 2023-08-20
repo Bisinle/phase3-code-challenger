@@ -7,8 +7,7 @@
 
 This code is a Python program that utilizes the `tkinter library` to create a simple graphical user interface `(GUI)` for converting time from a 12-hour format to a 24-hour format. The GUI allows users to input hours, minutes, and the period (am/pm) and then displays the converted time or an error message.
 
-<img src="./src/images/results.png">
-<img src="./src/images/error.png" >
+<img src="./src/images/results.png"> <img src="./src/images/error.png" >
 
 ## Code 2 - Consonant Value:
 
